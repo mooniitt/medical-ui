@@ -26,7 +26,7 @@ module.exports = {
     },
     locales: {
       'zh-CN': {
-        title: 'Vant 2',
+        title: 'Medical',
         description: '轻量、可靠的移动端组件库',
         logo: 'https://img01.yzcdn.cn/vant/logo.png',
         langLabel: '中文',
